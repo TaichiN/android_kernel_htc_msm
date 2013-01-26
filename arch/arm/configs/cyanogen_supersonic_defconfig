@@ -1789,6 +1789,8 @@ CONFIG_CIFS_POSIX=y
 # CONFIG_NCP_FS is not set
 # CONFIG_CODA_FS is not set
 # CONFIG_AFS_FS is not set
+CONFIG_CLEANCACHE=y
+CONFIG_FRONTSWAP=y
 
 #
 # Partition Types
